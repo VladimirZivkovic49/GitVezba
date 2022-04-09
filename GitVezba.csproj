@@ -48,6 +48,7 @@
     <Compile Include="User1.cs" />
     <Compile Include="User2.cs" />
     <Compile Include="User3.cs" />
+    <Compile Include="User4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
